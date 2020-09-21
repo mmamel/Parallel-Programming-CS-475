@@ -1,0 +1,490 @@
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       1	   8	       128	     0.018 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       2	   8	       256	     0.047 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       4	   8	       512	     0.090 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       8	   8	      1024	     0.178 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      16	   8	      2048	     0.350 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      32	   8	      4096	     0.670 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	   8	      8192	     1.172 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     128	   8	     16384	     1.699 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     256	   8	     32768	     0.966 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     512	   8	     65536	     1.637 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    1024	   8	    131072	     2.440 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    2048	   8	    262144	     3.241 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    4096	   8	    524288	     3.764 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    8192	   8	   1048576	     4.146 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       1	  16	        64	     0.024 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       2	  16	       128	     0.045 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       4	  16	       256	     0.090 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       8	  16	       512	     0.186 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      16	  16	      1024	     0.356 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      32	  16	      2048	     0.585 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  16	      4096	     1.325 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     128	  16	      8192	     2.302 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     256	  16	     16384	     1.130 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     512	  16	     32768	     1.973 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    1024	  16	     65536	     3.246 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    2048	  16	    131072	     4.381 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    4096	  16	    262144	     6.138 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    8192	  16	    524288	     7.224 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       1	  32	        32	     0.024 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       2	  32	        64	     0.044 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       4	  32	       128	     0.094 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       8	  32	       256	     0.186 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      16	  32	       512	     0.364 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      32	  32	      1024	     0.738 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  32	      2048	     1.417 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     128	  32	      4096	     2.670 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     256	  32	      8192	     1.190 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     512	  32	     16384	     2.258 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    1024	  32	     32768	     3.912 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    2048	  32	     65536	     6.343 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    4096	  32	    131072	     8.881 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    8192	  32	    262144	    11.781 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       1	  64	        16	     0.024 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       2	  64	        32	     0.046 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       4	  64	        64	     0.093 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       8	  64	       128	     0.189 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      16	  64	       256	     0.353 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      32	  64	       512	     0.756 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	  64	      1024	     1.457 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     128	  64	      2048	     2.829 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     256	  64	      4096	     1.233 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     512	  64	      8192	     2.385 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    1024	  64	     16384	     4.352 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    2048	  64	     32768	     7.591 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    4096	  64	     65536	    12.039 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    8192	  64	    131072	    16.540 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       1	 128	         8	     0.023 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       2	 128	        16	     0.047 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       4	 128	        32	     0.094 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       8	 128	        64	     0.189 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      16	 128	       128	     0.361 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      32	 128	       256	     0.622 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	 128	       512	     1.496 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     128	 128	      1024	     2.858 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     256	 128	      2048	     1.195 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     512	 128	      4096	     2.460 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    1024	 128	      8192	     4.578 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    2048	 128	     16384	     8.490 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    4096	 128	     32768	    13.806 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    8192	 128	     65536	    19.576 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       1	 256	         4	     0.023 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       2	 256	         8	     0.045 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       4	 256	        16	     0.074 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       8	 256	        32	     0.184 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      16	 256	        64	     0.370 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      32	 256	       128	     0.773 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	 256	       256	     1.488 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     128	 256	       512	     3.000 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     256	 256	      1024	     1.257 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     512	 256	      2048	     2.460 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    1024	 256	      4096	     4.533 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    2048	 256	      8192	     8.503 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    4096	 256	     16384	    13.060 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    8192	 256	     32768	    20.481 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       1	 512	         2	     0.023 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       2	 512	         4	     0.047 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       4	 512	         8	     0.095 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+       8	 512	        16	     0.185 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      16	 512	        32	     0.361 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      32	 512	        64	     0.761 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+      64	 512	       128	     1.345 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     128	 512	       256	     2.661 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     256	 512	       512	     0.916 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+     512	 512	      1024	     2.177 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    1024	 512	      2048	     4.289 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    2048	 512	      4096	     6.598 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    4096	 512	      8192	     6.119 GigaMultsPerSecond
+delete.cpp: In function ‘int main(int, char**)’:
+delete.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+    8192	 512	     16384	     1.935 GigaMultsPerSecond

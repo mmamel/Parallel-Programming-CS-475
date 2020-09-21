@@ -1,0 +1,10 @@
+Code can be run by executing this command on DGX server
+$ sbatch collectMultAdd
+(this will run just the multiply, to get multiiply and add, uncomment the addition in MultAdd.cl)
+
+or
+
+$ sbatch collectReduc
+(this will run the multiply and reduction)
+
+The collectD bash scripts will run all the test cases and output the data to data.csv file

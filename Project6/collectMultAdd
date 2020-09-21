@@ -1,0 +1,20 @@
+#!/bin/bash
+#SBATCH -J OPENCL
+#SBATCH -A cs475-575
+#SBATCH -p class
+#SBATCH --gres=gpu:1
+#SBATCH -o Project6.out
+#SBATCH -e Project6.err
+#SBATCH --mail-type=BEGIN,END,FAIL
+#SBATCH --mail-user=mamel@oregonstate.edu
+for t in 8 16 32 64 128 256 512
+do
+	#echo NUMT = $t
+	#number of subdivisions:
+	for s in  1 2 4 8 16 32 64 128 256 512 1024 2048 4096 8192
+	do
+		#echo NUMS = $s
+		g++ -o MultAdd MultAdd.cpp /usr/local/apps/cuda/cuda-10.1/lib64/libOpenCL.so.1.1 -lm -fopenmp -DNMB=$s -DLOCAL_SIZE=$t 
+		./MultAdd
+	done
+done
