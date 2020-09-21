@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH -J OPENCL
+#SBATCH -A cs475-575
+#SBATCH -p class
+#SBATCH --gres=gpu:1
+#SBATCH -o Project7B.out
+#SBATCH -e Project7B.err
+#SBATCH --mail-type=BEGIN,END,FAIL
+#SBATCH --mail-user=mamel@oregonstate.edu
+
+g++ -o main main.cpp /usr/local/apps/cuda/cuda-10.1/lib64/libOpenCL.so.1.1 -lm -fopenmp
+./main

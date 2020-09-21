@@ -1,0 +1,11 @@
+Performance for 1-thread OpenMp: 282.336 megatrialspersecond
+Done with one thread
+Performance for 4-thread OpenMp: 284.135 megatrialspersecond
+done with 4 thread
+1Performance for SIMD: 707.361 megatrialspersecond
+done with SIMD
+here5
+here1
+here2
+here3
+Performance for OpenCL: 840356 megatrialspersecond
